@@ -1,4 +1,4 @@
-## Telkom In Store Portal
+## Job Connect Website
 
 This is NextJS Application 
 
@@ -23,17 +23,6 @@ npm run dev
 yarn dev 
 ```
 
-## Front End Project Lead
+## Developed by
 
-Ralph Nazombe - Software Developer
-
-## Contributors
-
-Nhlanhla Hlungwani - Software Developer  
-Nthabiseng Setwaba - Software Developer 
-Vhuhwavho Nevhuloro - Software Developer 
-Mbali Swelinkomo - Software Developer 
-
-## Workflow and Backend Contributors
-
-Farnaz Shaik - Software Developer
+Mbali Swelinkomo
